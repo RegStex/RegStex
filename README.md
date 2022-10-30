@@ -2,5 +2,5 @@
 
 Discord: https://discord.gg/HNhPht8BNc
 
-**Projects:**
+Projects:
 * SeRS: https://github.com/RegStex/sers.git
