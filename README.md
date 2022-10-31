@@ -3,4 +3,4 @@
 Discord: https://discord.gg/HNhPht8BNc
 
 Projects:
-* SeRS: https://github.com/RegStex/sers.git
+* SeRS(java-17.0.4.1): https://github.com/RegStex/sers.git
